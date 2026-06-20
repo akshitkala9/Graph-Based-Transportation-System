@@ -69,18 +69,6 @@ Finds the minimum-cost network connecting all cities.
 
 Determines which cities can be reached from the selected source city.
 
-## Future Enhancements
 
-* Save and Load Networks
-* Delete Cities and Roads
-* DFS Traversal
-* Drag-and-Drop City Movement
-* Real Map Integration
 
-## Author
 
-Akshit Kala
-
-## License
-
-This project is developed for educational and learning purposes.
